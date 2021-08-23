@@ -1,2 +1,5 @@
 # dacbot
-Projeto para a disciplina MC853 da Unicamp. O projeto envolveu o desenvolvimento de um chatbot para a diretoria acadêmica da Unicamp, a fim de resolver dúvidas do aluno sobre assuntos acadêmicos e do ano letivo.
+
+Project for the MC853 course at Unicamp. The project involves the development of a chatbot for Unicamp's academic board, in order to resolve student doubts about academic matters and the academic year.
+
+
